@@ -2,11 +2,11 @@
 
 Khalifa Gad is a software engineer with over 8 years of experience. He is passionate about his work and always strives to learn new things. He is also a team player and leader. Khalifa is currently working towards becoming a principal engineer.
 
-One of the challenges that Khalifa has faced in his career is refactoring a project based on cron jobs, SQL queries with 10 join statements, functions with more than 500 line to event driven software with hybrid data layers (elastic and postgres) and maximum class about 200 line. This was a complex project with a lot of dynamics that required careful planning and execution. Khalifa was able to lead his team to successfully complete the project, and it is now running smoothly in production.
+**One of the challenges that Khalifa has faced in his career** is refactoring a project based on cron jobs, SQL queries with 10 join statements, functions with more than 500 line to event driven software with hybrid data layers (elastic and postgres) and maximum class about 200 line. This was a complex project with a lot of dynamics that required careful planning and execution. Khalifa was able to lead his team to successfully complete the project, and it is now running smoothly in production.
 
 Khalifa advises other engineers to read a lot, especially in the tech field, and to learn more about business. He believes that it is important for engineers to have a broad understanding of technology and business in order to be successful.
 
-Khalifa believes that iterative work is essential to building robust software. He advises other engineers to embrace iterative work and document their code, write tests, and keep themselves open to change.
+Khalifa believes that iterative work is essential to building robust software. He advises other engineers to _**embrace iterative work and document their code, write tests, and keep themselves open to change.**_
 
 Khalifa is also passionate about helping others. He is always willing to discuss tech stuff, code review, or mentor others. You can book a free mentoring session with Khalifa [here on adplist](https://adplist.org/mentors/khalifa-gad) or send him a direct message on [Linkedin](https://www.linkedin.com/in/khalifa-gad-539671175/).
 
