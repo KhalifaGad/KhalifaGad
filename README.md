@@ -1,4 +1,4 @@
-### Khalifa Gad: A Software Engineer's Journey to Principal Engineer
+### Khalifa Gad: A Software Engineer's Journey
 
 Khalifa Gad is a software engineer with over 8 years of experience. He is passionate about his work and always strives to learn new things. He is also a team player and leader. Khalifa is currently working towards becoming a principal engineer.
 
