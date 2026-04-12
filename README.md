@@ -2,7 +2,7 @@
 
 Full-stack engineer with 10+ years of experience building and scaling web platforms. Currently a **Team Lead at Yassir**.
 
-I specialize in designing systems that scale — microfrontend architectures (Module Federation), microservices migrations, modular monoliths with GraphQL, and event-driven patterns with RabbitMQ. I've led teams of up to 7 engineers through full platform rebuilds and have a track record of turning legacy systems into modern, maintainable codebases.
+I specialize in designing systems that scale — microfrontend architectures, microservices migrations, modular monoliths with GraphQL, and event-driven patterns with RabbitMQ. I've led teams of up to 7 engineers through full platform rebuilds and have a track record of turning legacy systems into modern, maintainable codebases.
 
 I'm a heavy user of AI-assisted development (Claude Code, Cursor, Codex) across the full engineering workflow.
 
